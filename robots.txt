@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.go30a.cn/sitemap.xml
